@@ -1,0 +1,35 @@
+clear
+'\033[32;1m'
+sleep 1
+echo
+toilet -f big -f gay by FASRISH46
+echo $white"SELAMAT DATANG"
+ecx4ho
+sleep 2
+echo $yellow"sila pilih toolnya :"
+echo
+echo $cyan"1.) akun istagram"
+echo $red"0.) keluar saja™¡¡"
+echo
+echo $blue
+read -p "pilihmana : " bro
+
+if [ $bro = 1 ] || [ $bro =1 ]
+then
+clear                                                                                                                 toilet -f big -F gay FARISH46
+echo $white"instargram login"
+echo
+sleep 2
+farish46_official
+rff212325
+fi
+
+if [ $bro =0 ] || [ $bro =0 ]
+then
+clear
+echo $red
+figlet "Bye"
+echo $yellow"to be contenued"
+sleep 3
+exit
+fi
